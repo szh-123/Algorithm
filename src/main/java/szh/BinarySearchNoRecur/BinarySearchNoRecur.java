@@ -6,7 +6,7 @@ public class BinarySearchNoRecur {
         int index=binarySearch(arr,25);
         System.out.println("index="+index);
     }
-    //二分查找的非递归实现hh
+    //二分查找的非递归实现hh555
 
     /**
      *
